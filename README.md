@@ -10,3 +10,4 @@ https://github.com/jaswanth1028/19ecb132/blob/main/insertionsort.c
 https://github.com/jaswanth1028/19ecb132/blob/main/lettercount.c
 https://github.com/jaswanth1028/19ecb132/blob/main/lineardatastructures.c
 https://github.com/jaswanth1028/19ecb132/blob/main/linkedlists.c
+https://github.com/jaswanth1028/19ecb132/blob/main/singlylinkedlists.c
