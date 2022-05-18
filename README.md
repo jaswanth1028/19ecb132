@@ -8,3 +8,4 @@ https://github.com/jaswanth1028/19ecb132/blob/main/binarytree.c
 https://github.com/jaswanth1028/19ecb132/blob/main/hello%20world.c
 https://github.com/jaswanth1028/19ecb132/blob/main/insertionsort.c
 https://github.com/jaswanth1028/19ecb132/blob/main/lettercount.c
+https://github.com/jaswanth1028/19ecb132/blob/main/lineardatastructures.c
